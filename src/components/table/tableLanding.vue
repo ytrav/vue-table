@@ -976,7 +976,7 @@
     </div>
       <div class="welcome">
         <h2>
-          Willkommen! Bitte wählen Sie Ihren Tabelle aus, der hier angezeigt
+          Willkommen! Bitte wählen Sie Ihre Tabelle aus, der hier angezeigt
           werden soll
         </h2>
       </div>

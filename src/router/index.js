@@ -57,11 +57,6 @@ const routes = [
         name: "Checkliste",
         component: () => import("../components/table/tableCheckliste.vue"),
     },
-    {
-        path: "/checkliste",
-        name: "Checkliste",
-        component: () => import("../components/table/tableCheckliste.vue"),
-    },
 
     {
         path: "/:catchAll(.*)",
